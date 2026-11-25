@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeronSam
-- 👀 I’m interested in data analytics, UI/UX design, full stack development
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on data analytics, UI/UX design, full stack development
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently at the intermediate level trying my hands on various projects
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me onifadeferanmi@gmail.com
 
 <!---
